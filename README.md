@@ -1,4 +1,4 @@
-## tree-sitter-cpp ( copied from tree-sitter-c for now, using tree-sitter-c grammars for now )
+### tree-sitter-cpp ( copied from tree-sitter-c for now, using tree-sitter-c grammars for now )
 
 # tree-sitter-c
 
